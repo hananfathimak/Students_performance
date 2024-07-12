@@ -10,3 +10,5 @@ The dataset contains scores for math, reading, and writing for students, along w
 - **Scores by Gender:** Boxplots comparing scores by gender.
 - **Scores by Parental Education:** Boxplots comparing scores by parental education level.
 - **Scores by Lunch Type:** Boxplots comparing scores by lunch type.
+- **Scores by Test Preparation Course:** Boxplots comparing scores by test preparation course.
+- **Scores by Race/Ethnicity:** Boxplots comparing scores by race/ethnicity.
